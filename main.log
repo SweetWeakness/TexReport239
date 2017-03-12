@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2016.9.8)  9 MAR 2017 18:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.12)  12 MAR 2017 18:38
 entering extended mode
 **./main.tex
 (main.tex
-LaTeX2e <2016/03/31> patch level 3
+LaTeX2e <2017/01/01> patch level 1
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+(D:\MikTex\tex\latex\base\article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+(D:\MikTex\tex\latex\base\size12.clo
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -20,41 +20,38 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+) (D:\MikTex\tex\latex\base\fontenc.sty
 Package: fontenc 2017/01/24 v2.0c Standard LaTeX package
 
-("\\storage\StudentAppData\shirshindg.18\Application Data\MiKTeX\2.9\tex\latex\
-cyrillic\t2aenc.def"
+(D:\MikTex\tex\latex\cyrillic\t2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 )
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
 
 
-("\\storage\StudentAppData\shirshindg.18\Application Data\MiKTeX\2.9\tex\latex\
-cyrillic\t2acmr.fd"
+(D:\MikTex\tex\latex\cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+))
+(D:\MikTex\tex\latex\base\inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
-
-("\\storage\StudentAppData\shirshindg.18\Application Data\MiKTeX\2.9\tex\latex\
-cyrillic\cp1251.def"
+ (D:\MikTex\tex\latex\cyrillic\cp1251.def
 File: cp1251.def 2014/10/28 v1.0d Input encoding file
-)) ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+)) (D:\MikTex\tex\generic\babel\babel.sty
 Package: babel 2016/04/23 3.9r The Babel package
 
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
-File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+(D:\MikTex\tex\latex\arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+(D:\MikTex\tex\latex\babel-english\english.ldf
 Language: english 2017/01/24 v3.3q English support from the babel system
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+(D:\MikTex\tex\generic\babel\babel.def
 File: babel.def 2016/04/23 3.9r Babel common definitions
 \babel@savecnt=\count87
 \U@D=\dimen103
@@ -63,17 +60,14 @@ File: babel.def 2016/04/23 3.9r Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\babel-russian\russianb.ldf"
-Language: russianb 2016/02/18 1.3h Russian support for the Babel system
+(D:\MikTex\tex\latex\babel-russian\russianb.ldf
+Language: russianb 2017/01/12 1.3i Russian support for the Babel system
 Package babel Info: Making " an active character on input line 111.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\pscyr\pscyr.sty"
-Package: pscyr 2002/07/04 v0.4d Cyrillic Type1 fonts as default
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+(D:\MikTex\tex\latex\amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+(D:\MikTex\tex\latex\amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks16
 \symAMSa=\mathgroup4
@@ -81,24 +75,24 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+(D:\MikTex\tex\latex\amsmath\amsmath.sty
 Package: amsmath 2016/11/05 v2.16a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+(D:\MikTex\tex\latex\amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+(D:\MikTex\tex\latex\amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
 \ex@=\dimen104
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+(D:\MikTex\tex\latex\amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen105
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+(D:\MikTex\tex\latex\amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count88
@@ -139,46 +133,44 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+(D:\MikTex\tex\latex\tools\enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks22
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+) (D:\MikTex\tex\latex\float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count100
 \float@exts=\toks23
 \float@box=\box28
 \@float@everytoks=\toks24
 \@floatcapt=\box29
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+) (D:\MikTex\tex\latex\tools\indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+(D:\MikTex\tex\latex\graphics\graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(D:\MikTex\tex\latex\graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks25
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+(D:\MikTex\tex\latex\graphics\graphics.sty
 Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(D:\MikTex\tex\latex\graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+(D:\MikTex\tex\latex\graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+(D:\MikTex\tex\latex\graphics-def\pdftex.def
 File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+(D:\MikTex\tex\generic\oberdiek\infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+(D:\MikTex\tex\generic\oberdiek\ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count101
@@ -186,17 +178,17 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+(D:\MikTex\tex\latex\geometry\geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+(D:\MikTex\tex\generic\oberdiek\ifpdf.sty
 Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+(D:\MikTex\tex\generic\oberdiek\ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+(D:\MikTex\tex\generic\ifxetex\ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count102
@@ -212,8 +204,11 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen122
 \Gm@dimlist=\toks26
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) (main.aux
-(title_page.aux) (work.aux
+(D:\MikTex\tex\latex\geometry\geometry.cfg)) (main.aux (title_page.aux)
+(work.aux
+
+LaTeX Warning: Label `fig_img11' multiply defined.
+
 
 LaTeX Warning: Label `fig_img11' multiply defined.
 
@@ -223,29 +218,38 @@ LaTeX Warning: Label `fig_img11' multiply defined.
 ))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Try loading font information for T2A+faq on input line 29.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\pscyr\t2afaq.fd"
-File: t2afaq.fd 2004/09/23 Fontinst v1.914 font definitions for T2A/faq.
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+ (D:\MikTex\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count105
+\scratchdimen=\dimen123
+\scratchbox=\box30
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen124
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks28
+) (D:\MikTex\tex\generic\oberdiek\pdftexcmds.sty
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+(D:\MikTex\tex\generic\oberdiek\ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -254,22 +258,22 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+(D:\MikTex\tex\latex\oberdiek\epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+(D:\MikTex\tex\latex\oberdiek\grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+(D:\MikTex\tex\generic\oberdiek\kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+(D:\MikTex\tex\latex\oberdiek\kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+(D:\MikTex\tex\generic\oberdiek\kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+(D:\MikTex\tex\generic\oberdiek\etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -320,11 +324,11 @@ G,.JBIG2,.JB2,.eps]
 \openout2 = `title_page.aux'.
 
 (title_page.tex
-\lbox=\box30
+\lbox=\box31
 \maxl=\skip46
 
 Underfull \hbox (badness 10000) detected at line 32
-\T2A/faq/m/n/12 10-3
+\T2A/cmr/m/n/12 10-3
  []
 
 
@@ -338,23 +342,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--32
  []
 
 LaTeX Font Info:    Try loading font information for U+msa on input line 32.
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+(D:\MikTex\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 32.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+ (D:\MikTex\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+[1
 
 
-{C:/Users/shirshindg.18/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) (m
-ain.toc
-LaTeX Font Info:    Try loading font information for OT1+faq on input line 1.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\pscyr\ot1faq.fd"
-File: ot1faq.fd 2001/12/09 Fontinst v1.914 font definitions for OT1/faq.
-))
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]) (main.toc)
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
@@ -363,8 +361,8 @@ File: ot1faq.fd 2001/12/09 Fontinst v1.914 font definitions for OT1/faq.
 ]
 \openout2 = `work.aux'.
 
- (work.tex
-<img_source/robotic.jpg, id=10, 372.64218pt x 310.91156pt>
+
+(work.tex <img_source/robotic.jpg, id=13, 372.64218pt x 310.91156pt>
 File: img_source/robotic.jpg Graphic file (type jpg)
 
 <use img_source/robotic.jpg>
@@ -373,41 +371,55 @@ Package pdftex.def Info: img_source/robotic.jpg used on input line 7.
  [3
 
  <./img_source/robotic.jpg>]
-<img_source/2.jpg, id=14, 304.88907pt x 253.69781pt>
+<img_source/2.jpg, id=18, 304.88907pt x 253.69781pt>
 File: img_source/2.jpg Graphic file (type jpg)
  <use img_source/2.jpg>
-Package pdftex.def Info: img_source/2.jpg used on input line 47.
+Package pdftex.def Info: img_source/2.jpg used on input line 65.
 (pdftex.def)             Requested size: 304.88832pt x 253.69719pt.
 
-<img_source/1.jpg, id=15, 399.74344pt x 736.25063pt>
+<img_source/1.jpg, id=19, 399.74344pt x 736.25063pt>
 File: img_source/1.jpg Graphic file (type jpg)
  <use img_source/1.jpg>
-Package pdftex.def Info: img_source/1.jpg used on input line 57.
+Package pdftex.def Info: img_source/1.jpg used on input line 75.
 (pdftex.def)             Requested size: 399.74245pt x 736.24883pt.
 
 
-LaTeX Warning: Float too large for page by 1.25821pt on input line 63.
+LaTeX Warning: Float too large for page by 1.06023pt on input line 81.
 
-) [4 <./img_source/2.jpg>] [5 <./img_source/1.jpg>] (main.aux (title_page.aux)
-(work.aux))
+<img_source/3.jpg, id=20, 627.09282pt x 539.01375pt>
+File: img_source/3.jpg Graphic file (type jpg)
+ <use img_source/3.jpg>
+Package pdftex.def Info: img_source/3.jpg used on input line 85.
+(pdftex.def)             Requested size: 627.0913pt x 539.01242pt.
+
+Overfull \hbox (129.16805pt too wide) in paragraph at lines 85--89
+ [][] 
+ []
+
+) [4] [5 <./img_source/2.jpg>] [6 <./img_source/1.jpg>] [7 <./img_source/3.jpg>
+] (main.aux (title_page.aux) (work.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3849 strings out of 493334
- 49951 string characters out of 3139166
- 124023 words of memory out of 10000000
- 7267 multiletter control sequences out of 15000+200000
- 23906 words of font info for 43 fonts, out of 3000000 for 9000
+ 4001 strings out of 493333
+ 50157 string characters out of 3146978
+ 125970 words of memory out of 3000000
+ 7422 multiletter control sequences out of 15000+200000
+ 14733 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,5n,26p,867b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/t2/t2a.enc}<C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/pscyr/antiq6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/pscyr/antiq7.pfb>
-Output written on main.pdf (5 pages, 167866 bytes).
+ 39i,5n,26p,872b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Roman\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\la
+bx1440.pk> <C:\Users\Roman\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\d
+pi600\labx1200.pk> <C:\Users\Roman\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\
+lh-t2a\dpi600\labx1728.pk> <C:\Users\Roman\AppData\Local\MiKTeX\2.9\fonts\pk\lj
+four\unknown\unknown\dpi600\larm1200.pk> <C:\Users\Roman\AppData\Local\MiKTeX\2
+.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\laxc1728.pk> <C:\Users\Roman\AppData\Local\
+MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk>
+Output written on main.pdf (7 pages, 262328 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
+ 282 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
